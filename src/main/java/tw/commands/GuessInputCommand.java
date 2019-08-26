@@ -19,4 +19,8 @@ public class GuessInputCommand {
         System.out.println("------Please input your answer as x x x x , x <10 ------");
         return bufferedReader.readLine();
     }
+
+
+
+
 }
